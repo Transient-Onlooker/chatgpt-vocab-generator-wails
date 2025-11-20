@@ -4,3 +4,4 @@ frontend/dist
 api.json
 push.bat
 Tester/
+build/
