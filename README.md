@@ -1,3 +1,5 @@
+## 이 프로젝트는 크로스 컴파일 호환 이슈로 인해서 종료돠었고, 해당 파일은 더이상 업데이트되지 않습니다. [**이 파일**](https://github.com/Transient-Onlooker/chatgpt-vocab-generator.git)을 참고해주세요.
+
 # README
 
 ## 정보
